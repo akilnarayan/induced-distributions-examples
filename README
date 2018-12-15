@@ -1,0 +1,9 @@
+This repository contains Matlab scripts that reproduce figures 1-6 in the paper "Construction least squares polynomial approximations".
+
+To run this code, you'll need to download the induced distributions matlab code and place it in a subdirectory "induced-distributions".
+
+Download zip from:
+https://github.com/akilnarayan/induced-distributions
+
+Or clone with git:
+git@github.com:akilnarayan/induced-distributions.git
